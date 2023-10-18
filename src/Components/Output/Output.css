@@ -1,0 +1,16 @@
+#display {
+    display: flex;
+    background-color: #ebfffc;
+    border: none;
+    outline: none;
+
+    width: 205px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 15px;
+
+    color: #626262;
+    font-weight: 600;
+    font-size: 15.7px;
+    cursor: text;
+}

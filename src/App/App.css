@@ -1,0 +1,21 @@
+.app {
+    width: 275px;
+    height: 350px;
+
+    background-color: #272727;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.app-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    width: 220px;
+    height: 235px;
+
+    align-content: space-around;
+    justify-content: space-between;
+}
